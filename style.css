@@ -28,7 +28,7 @@ body{
 }
 
 @media(max-width:840px){
-    #bar1,#bar2,bar3{
+    #bar1,#bar2,#bar3{
         display: none;
     }
     .digitalClock{
